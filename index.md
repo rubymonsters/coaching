@@ -1,3 +1,8 @@
+---
+title: Tips for coaching a Ruby study group
+layout: default
+---
+
 # Tips for coaching a Ruby study group
 
 Rails Girls beginners workshops are great at sparking a lot of enthusiasm, and
@@ -7,7 +12,7 @@ Often times participants of these workshops form Ruby study groups. Here are
 some recommendations about how to run such a group as a coach.
 
 
-### Happiness and fun
+## Happiness and fun
 
 Whatever previous experiences and skills they bring, your job as a coach is
 to make learning programming as interesting and your group's meetings as fun as
@@ -18,7 +23,7 @@ This can be tough, and you might find yourself suck. Keep learning, try to come
 up with better ways, and improve.
 
 
-### Create a safe space
+## Create a safe space
 
 At our study groups we have found it best to simply make them women-only for
 students ("women" meaning everyone who identifies as a woman).
@@ -39,7 +44,7 @@ We recommend to pick up the same policy for your groups, or at least have
 a clear policy about who's allowed to join.
 
 
-### Never call participants girls
+## Never call participants girls
 
 Despite the name and branding of the movement that is Rails Girls, as coaches
 we never call participants girls.
@@ -55,7 +60,7 @@ group. A few great starting points are [here](https://modelviewculture.com),
 [here](http://www.ashedryden.com/archive), and [here](http://geekfeminism.wikia.com).
 
 
-### Be humble: it's not about you
+## Be humble: it's not about you
 
 Whatever you do, put the focus on your students. It's about them, not you.
 
@@ -65,7 +70,7 @@ enthusiastic and happy.
 Be humble. Put the focus on them, not you.
 
 
-### Take breaks
+## Take breaks
 
 However you run the group meetings, take breaks often enough.
 
@@ -79,7 +84,7 @@ During the breaks encourage everyone to close their laptops, walk around, chat,
 and have some snacks.
 
 
-### Ask about previous experiences
+## Ask about previous experiences
 
 Often times students who show up at our beginners groups have zero previous
 experience with programming. Sometimes they know a little bit of HTML/CSS, made
@@ -93,7 +98,7 @@ group. This will give you a few clues about good starting points, and things
 they might already be familiar with.
 
 
-### Keep it as simple as possible
+## Keep it as simple as possible
 
 If you are considering coaching a beginners group then you probably are an
 experienced developer.
@@ -153,7 +158,7 @@ For example:
   migration files nowadays are timestamped and why there's `change`.
 
 
-### Break things down
+## Break things down
 
 Do not try to teach too much at once. Reduce things. Once you think they're
 simple enough, reduce further.
@@ -189,7 +194,7 @@ Also, read the chapter "Learning to program" from our book [Ruby For
 Beginners](http://ruby-for-beginners.rubymonstas.org).
 
 
-### Repeat yourself
+## Repeat yourself
 
 Learning to program only works through repetition. It is a process of brainwashing
 yourself into the ability to recognize patterns, such as a method definition,
@@ -210,7 +215,7 @@ students to repeat it. Other examples might be:
 * A migration represents a change to the database structure.
 
 
-### Use metaphors
+## Use metaphors
 
 Different people tend to soak up new concepts in different ways.
 
@@ -239,7 +244,7 @@ there's a `Lamp` that could have a method `toggle` to be switched `on` and
 `Waffle`, then conducted a role playing game with these.
 
 
-### Observe and listen, be flexible
+## Observe and listen, be flexible
 
 Since everyone's different there won't ever be two classes or groups where
 everything works well the same way. You'll need to continuously adapt to your
@@ -270,7 +275,7 @@ also, sometimes, on their own. Make sure to add in sessions where the group
 works on something on their own, and completely walk away for a little while.
 
 
-### Be patient
+## Be patient
 
 Especially when this is your first group you'll need to be extra careful to be
 patient. Super extra patient.
@@ -287,7 +292,7 @@ something else (like, thinking about the next concept, or how to solve a
 certain exercise *using* that concept).
 
 
-### Make zero assumptions
+## Make zero assumptions
 
 Even though impossible, try to make zero assumptions.
 
@@ -302,7 +307,7 @@ where they think a piece of code should fit in, and try to come up with helpful
 answers.
 
 
-### Summarize, give the bigger picture
+## Summarize, give the bigger picture
 
 Try drilling down into the details often enough so your students understand
 every little step that happens when an object is instantiated, a method is
@@ -318,7 +323,7 @@ feature, don't forget to always also summarize things, and talk about the
 end-to-end process that a request/response cycle goes through.
 
 
-### Be positive, praise progress
+## Be positive, praise progress
 
 Everyone is always doing the best they can. Whatever progress your students
 make, be sure to give positive feedback, and compliment the progress they've
@@ -342,7 +347,7 @@ Be sure to point out how much progress they've already made, and how proud they
 should feel.
 
 
-### Have weak opinions
+## Have weak opinions
 
 Let's face it, the Ruby community values "strong opinions" a lot, and everyone
 has their own. This is probably beneficial to the community as a whole: lots
@@ -372,7 +377,7 @@ maybe because a friend has used it before, encourage them to try it out, even
 if you feel there are better solutions.
 
 
-### Never cancel a group meeting
+## Never cancel a group meeting
 
 Try as hard as possible to never cancel a group meeting. Make sure someone
 else can take over if you're travelling, or sick. Run the meeting even if
@@ -386,7 +391,7 @@ your students stay motivated. If you cancel meetings too often you might
 eventually blast your group.
 
 
-### Build an identity
+## Build an identity
 
 Once the group is somewhat established, people got to know each other,
 and had a bunch of great meetings, having lots of fun, ask them to come
@@ -399,7 +404,7 @@ uncomfortable committing in public then ask GitHub for a free organizational
 account with private repositories.
 
 
-### Give long term perspectives
+## Give long term perspectives
 
 Give your group long term perspectives.
 
@@ -416,7 +421,7 @@ Also be sure to tell them about Rails Girls Summer of Code, a project that
 dedicately aims at providing a longer term goal for study groups to aim at.
 
 
-### Encourage them to join other events
+## Encourage them to join other events
 
 Even for beginners it often times is a great experience to join a local Ruby
 meetup once in a while, join a hackday (ask the whole group to participate and
@@ -429,7 +434,7 @@ to them to listen to the talks, talk to developers about their experiences, or
 just enjoy the nice atmosphere and have fun.
 
 
-### Invite guest stars and experts
+## Invite guest stars and experts
 
 When well know programmers visit your city invite them to visit your group,
 and maybe give a short lecture on a certain topic. Should your group be
@@ -444,7 +449,7 @@ casually at their first conference ... which can help boost self-esteem, too
 (not even kidding).
 
 
-### Educate yourself
+## Educate yourself
 
 Coaches often times are seasoned developers, often times male, and priviledged
 enough to be able to spend their time coaching a group regularly.
