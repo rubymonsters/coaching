@@ -16,6 +16,11 @@ html, body {
   padding: 0;
 }
 
+@media screen and (max-width: 900px)  { html { font-size: 0.875rem; } }
+@media screen and (min-width: 900px)  { html { font-size: 0.875rem; } }
+@media screen and (min-width: 1024px) { html { font-size: 1rem; } }
+@media screen and (min-width: 1200px) { html { font-size: 1.125rem; } }
+
 body {
   position: relative;
   background: #fff;
@@ -28,7 +33,8 @@ body {
 
 article {
   max-width: 55rem;
-  margin: 0 auto 5rem auto;
+  margin: 3rem auto 5rem auto;
+  padding: 0 2rem;
 }
 
 a {

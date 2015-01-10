@@ -1,9 +1,9 @@
 ---
-title: Tips for coaching a Ruby study group
+title: Tips for coaching a programming study group
 layout: default
 ---
 
-# Tips for coaching a Ruby study group
+# Tips for coaching a programming study group
 
 Rails Girls beginners workshops are great at sparking a lot of enthusiasm, and
 motivating newcomers to dive deeper, and start learning how to program.
@@ -447,6 +447,30 @@ being given this opportunity, and get to know a brilliant programer. They'll
 also be able to enjoy watching everyone's jawbones drop when mentioning it
 casually at their first conference ... which can help boost self-esteem, too
 (not even kidding).
+
+
+## Come up with a curriculum
+
+When we ran our first beginners group we simply came up with an order of topics
+on a week by week basis. There weren't too many good online resources targeted
+at beginners at that time. We quickly found out that this was a mistake.
+
+We recommend to recommend a book for everyone to read. Encourage your students
+to read other books and do tutorials, but make sure everyone at least reads the
+same book that you've agreed on.
+
+Then, in your weekly meetings, go over the same topics, roughly in the same
+order as the book does. Explain things, answer questions, and do exercises.
+Then have everyone read the next few chapters as homework, and maybe give
+additional exercises for homework.
+
+We have used Chris Pine's [Learn to Program](https://pine.fm/LearnToProgram) in
+two groups. While this worked a few things about this book aren't ideal.
+
+We have therefor come up with our own beginner group curriculum, and published
+it as a book: [Ruby For Beginners](http://ruby-for-beginners.rubymonstas.org).
+Feel free to use it. Of course, any and all feedback or improvements will be
+welcome.
 
 
 ## Educate yourself
