@@ -31,13 +31,29 @@ article {
   margin: 0 auto 5rem auto;
 }
 
+a {
+  color: #ee4444;
+  text-decoration: underline;
+}
+a:hover {
+  text-decoration: none;
+}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Helvetica Neue', helvetica, sans-serif;
   font-weight: normal;
   margin: 2rem 0 1rem 0;
 }
-h1 { font-size: 2.250rem; } // 36px
-h2 { font-size: 1.50rem;  } // 24px
-h3 { font-size: 1.313rem; } // 21px
-h4 { font-size: 1.125rem; font-weight: bold; } // 18px
+h1 {
+  font-size: 2.250rem;
+}
+h2 {
+  font-size: 1.50rem;
+}
+h3 {
+  font-size: 1.313rem;
+}
+h4 {
+  font-size: 1.125rem;
+  font-weight: bold;
+}
