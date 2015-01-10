@@ -9,7 +9,8 @@ Rails Girls beginners workshops are great at sparking a lot of enthusiasm, and
 motivating newcomers to dive deeper, and start learning how to program.
 
 Often times participants of these workshops form Ruby study groups. Here are
-some recommendations about how to run such a group as a coach.
+some recommendations about how to run such a group as a coach, based on our
+experiences running our group [Ruby Monsters](http://rubymonstas.org).
 
 
 ## Happiness and fun
@@ -57,7 +58,10 @@ This is should be a no-brainer to you. If it's not, or if have any issues with
 this simple rule, we recommend taking a step back, and learn about gender related
 issues in our society in general, and tech in particular, before you run a
 group. A few great starting points are [here](https://modelviewculture.com),
-[here](http://www.ashedryden.com/archive), and [here](http://geekfeminism.wikia.com).
+[here](http://www.ashedryden.com/archive), and [here](http://geekfeminism.wikia.com),
+and you can find more resources at the end of this page. If studying these
+still does not convince you, then you might not be the right person to run a
+study group for women.
 
 
 ## Be humble: it's not about you
@@ -223,13 +227,13 @@ Try to give precise definitions, but also use metaphors, analogies and images
 as much as possible. Try to be playful, but also keep repeating precise
 phrases, and *show* how things work.
 
-For example, explain that *A route maps an HTTP verb and a path to a a
-controller action. An action is a method on an instance of a controller class
-that route maps to.* Then also come up with a metaphor, e.g. *A route is like
-the receptionist in a hotel: The browser's request walks up to them, and is
-being sent to a particluar floor and room number.* Or: *A route is like the
-waiter in a restaurant. They take your order, and bring it to the right chef,
-depending on the dish you ordered.*
+For example, explain that *A route maps an HTTP verb and a path to a controller
+action. An action is a method on an instance of a controller class that a route
+maps to.* Then also come up with a metaphor, e.g. *A route is like the
+receptionist in a hotel: The browser's request walks up to them, and is being
+sent to a particluar floor and room number.* Or: *A route is like the waiter in
+a restaurant. They take your order, and bring it to the right chef, depending
+on the dish you ordered.*
 
 Also consider trying more creative learning methods:
 
@@ -287,7 +291,7 @@ be used without thinking about it further.
 Students who never learned any programming on the other hand will be
 overwhelmed in not time when you try to explain too much at once. Also, it simply
 takes a little while, and quite some repetition, in order for a certain concept
-to trickle in, and be well known enough to be *used* while thinking about
+to trickle in, and to be known well enough to be *used* while thinking about
 something else (like, thinking about the next concept, or how to solve a
 certain exercise *using* that concept).
 
@@ -339,9 +343,8 @@ actually making:
 For example, after introducing what a method is, and explaining how they are
 defined, and used, your students might feel overwhelmed and confused. Just a
 few weeks later they'll define and use their own methods as if they always knew
-them. However, because the exercises they're currently working on also might
-feel a little overwhelming, they feel they haven't made any progress
-whatsoever.
+them. However, because the exercises they're *now* working on also might feel a
+little overwhelming, they feel they haven't made any progress whatsoever.
 
 Be sure to point out how much progress they've already made, and how proud they
 should feel.
@@ -366,21 +369,21 @@ Even if you very much prefer one tool over another, one editor over another,
 one whatever thing over another one, remain silent about your opinions. Instead
 give a list of possible solutions, mention some of the benefits and drawbacks,
 and explain the choice you've potentially made for the current group or
-curriculum.  Ideally, if possible, let them decide and pick the solution they
+curriculum. Ideally, if possible, let *them* decide and pick the solution they
 want to go with, and ask for their reasons.
 
-You want your students to remain curious and open-minded. For example, if
-you happen to really dislike Cucumber for whatever reasons, if your group
-or individual students happen to be excited about it, then you want to fuel
-their curiosity, instead of discouraging it. If they want to use Bootstrap,
-maybe because a friend has used it before, encourage them to try it out, even
-if you feel there are better solutions.
+You want your students to remain curious and open-minded. For example, even if
+you happen to really dislike Cucumber for whatever reasons: if your group or
+single students happens to be excited about it, then you want to fuel their
+curiosity, instead of discouraging it. If they want to use Bootstrap, maybe
+because a friend has used it before, encourage them to try it out, even if you
+feel there are better solutions.
 
 
 ## Never cancel a group meeting
 
 Try as hard as possible to never cancel a group meeting. Make sure someone
-else can take over if you're travelling, or sick. Run the meeting even if
+else can take over if you're travelling, or sick. And run the meeting even if
 there's only a single attendee.
 
 It helps to grow the group big enough, and have enough coaches, so that
@@ -421,6 +424,56 @@ Also be sure to tell them about Rails Girls Summer of Code, a project that
 dedicately aims at providing a longer term goal for study groups to aim at.
 
 
+## Come up with a curriculum
+
+When we ran our first beginners group we simply came up with an order of topics
+on a week by week basis. There weren't too many good online resources targeted
+at beginners at that time. We quickly found out that this was a mistake.
+
+Instead, it is a much better idea to recommend an introductional book for
+everyone to read at home. Encourage your students to read other books and do
+tutorials, but make sure everyone at least reads the same book that you've
+agreed on.
+
+Then, in your weekly meetings, go over the same topics, roughly in the same
+order as the book does. Explain things, answer questions, and do exercises.
+Then have everyone read the next few chapters as homework, and maybe give
+additional exercises for homework.
+
+We have used Chris Pine's [Learn to Program](https://pine.fm/LearnToProgram) in
+two groups. While this worked a few things about this book aren't ideal.
+
+We have therefor come up with our own beginner group curriculum, and published
+it as a book: [Ruby For Beginners](http://ruby-for-beginners.rubymonstas.org).
+Feel free to use it. Of course, any and all feedback or improvements will be
+welcome.
+
+
+## Focus on your goal
+
+We recommend designing your curriculum, and individual sessions around the goal
+to get them to feel enabled to write "real" code as soon as possible.
+
+This requires to omit lots of language features, lots of potential excurses,
+and really focussing on this one goal.
+
+In our groups we focus on getting them to the point where they can write a
+simple Sinatra application, and understand every single language feature that
+they are using. Along the way we have smaller goals such as being able to
+read a CSV file, and filter it.
+
+Get to this point as quickly as possible (obviously still as slowly as required
+for them to understand things). It will take a few weeks, or months, but getting
+there will make them feel like a "real" programmer for the first time: They've
+built a web application, and they completely understand what they're doing.
+
+This can be an amazing, and very motivating experience.
+
+So, don't bother introducing language features that you may like to talk about,
+but just aren't required for this goal. You'll be surprised how much one can
+cut down Ruby, and still be productive writing Sinatra applications.
+
+
 ## Encourage them to join other events
 
 Even for beginners it often times is a great experience to join a local Ruby
@@ -443,34 +496,10 @@ to give a training session or two.
 
 Having Konstantin Haase visit and do an introductional session about HTTP can
 be priceless. Not only will they get a great introduction, feel honored about
-being given this opportunity, and get to know a brilliant programer. They'll
+being given this opportunity, and get to know a brilliant programmer. They'll
 also be able to enjoy watching everyone's jawbones drop when mentioning it
 casually at their first conference ... which can help boost self-esteem, too
 (not even kidding).
-
-
-## Come up with a curriculum
-
-When we ran our first beginners group we simply came up with an order of topics
-on a week by week basis. There weren't too many good online resources targeted
-at beginners at that time. We quickly found out that this was a mistake.
-
-We recommend to recommend a book for everyone to read. Encourage your students
-to read other books and do tutorials, but make sure everyone at least reads the
-same book that you've agreed on.
-
-Then, in your weekly meetings, go over the same topics, roughly in the same
-order as the book does. Explain things, answer questions, and do exercises.
-Then have everyone read the next few chapters as homework, and maybe give
-additional exercises for homework.
-
-We have used Chris Pine's [Learn to Program](https://pine.fm/LearnToProgram) in
-two groups. While this worked a few things about this book aren't ideal.
-
-We have therefor come up with our own beginner group curriculum, and published
-it as a book: [Ruby For Beginners](http://ruby-for-beginners.rubymonstas.org).
-Feel free to use it. Of course, any and all feedback or improvements will be
-welcome.
 
 
 ## Educate yourself
