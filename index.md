@@ -443,7 +443,7 @@ additional exercises for homework.
 We have used Chris Pine's [Learn to Program](https://pine.fm/LearnToProgram) in
 two groups. While this worked a few things about this book aren't ideal.
 
-We have therefor come up with our own beginner group curriculum, and published
+We have therefore come up with our own beginner group curriculum, and published
 it as a book: [Ruby For Beginners](http://ruby-for-beginners.rubymonstas.org).
 Feel free to use it. Of course, any and all feedback or improvements will be
 welcome.
