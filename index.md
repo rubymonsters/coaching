@@ -56,8 +56,8 @@ women, depending on the context.
 
 This is should be a no-brainer to you. If it's not, or if have any issues with
 this simple rule, we recommend taking a step back, and learn about gender related
-issues in our society in general, and tech in particular, before you run a
-group. A few great starting points are [here](https://modelviewculture.com),
+issues in our society in general, and tech in particular. 
+A few great starting points are [here](https://modelviewculture.com),
 [here](http://www.ashedryden.com/archive), and [here](http://geekfeminism.wikia.com),
 and you can find more resources at the end of this page. If studying these
 still does not convince you, then you might not be the right person to run a
@@ -112,7 +112,7 @@ are two very different things, and they require different skills.
 
 Whatever you personally deem interesting, your favorite set of tools,
 whatever kind of programming style you prefer: these are conclusions that you
-have drawn after years and years of trying, failing, learning, and trying again.
+have drawn after years and years of trying, failing, learning, and starting over.
 None of this is relevant to a beginner.
 
 Pick the simplest tools that can be used by everyone in the group in order
@@ -132,13 +132,13 @@ For example:
   of hashes. Later mention the new syntax, but keep using the old one for at
   least a while.
 
-* The same is true for little used language features. You want your group get
-  to the point where they can write useful and interesting code. Many language
-  features, even if we use them often, just aren't required for that. Why
-  bother introducing for and while loops, lambdas, splats, class variables,
-  even conditional assignments, and default arguments. Instead, obey the 80/20
-  rule and teach simple code first. Get them to the point where they can write
-  their own stuff. You can always introduce more language features later.
+* Skip little used language features. You want your group get to the point
+  where they can write useful and interesting code. Many language features,
+  even if we use them often, just aren't required for that. Why bother
+  introducing for and while loops, lambdas, splats, class variables, even
+  conditional assignments, or default arguments. Instead, obey the 80/20 rule
+  and teach simple code first. Get them to the point where they can write their
+  own stuff. You can always introduce more language features later.
 
 * Start teaching tests using `test/unit`: Tests are just methods (which they
   already know), and there's no extra overhead or setup involved. They'll just
