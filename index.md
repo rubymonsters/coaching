@@ -20,7 +20,7 @@ to make learning programming as interesting and your group's meetings as fun as
 possible. You want your students to be happy when they leave after the meeting:
 A little tired, maybe slightly overwhelmed, but always happy.
 
-This can be tough, and you might find yourself suck. Keep learning, try to come
+This can be tough, and you might find yourself stuck. Keep learning, try to come
 up with better ways, and improve.
 
 
@@ -36,7 +36,7 @@ male student dynamics change drastically, and we've found ourselves struggling
 at fighting these dynamics and making sure everyone has the best experience
 possible.
 
-We've therefor decided to simply not allow men to join the group as students.
+We've therefore decided to simply not allow men to join the group as students.
 They are invited to visit, tag along, or wait for their partners, but they are
 asked to find a separate place, and remain silent in order to not disturb the
 group.
@@ -110,12 +110,12 @@ experienced developer.
 Keep in mind that being a great developer, and being a great teacher and coach
 are two very different things, and they require different skills.
 
-Whatever you personally deem interesting, what's your favorite set of tools,
-and what kind of programming style you prefer, is a conclusion that you have
-drawn after years and years of trying, failing, learning, and trying again.
+Whatever you personally deem interesting, your favorite set of tools,
+whatever kind of programming style you prefer: these are conclusions that you
+have drawn after years and years of trying, failing, learning, and trying again.
 None of this is relevant to a beginner.
 
-Pick the simplest tools that can be used by everyone on the group in order
+Pick the simplest tools that can be used by everyone in the group in order
 to learn about a certain topic. Even if there's a more modern, or more widely
 used way to achieve something, consider starting out with teaching the most
 basic and simplistic solution.
@@ -443,7 +443,7 @@ additional exercises for homework.
 We have used Chris Pine's [Learn to Program](https://pine.fm/LearnToProgram) in
 two groups. While this worked a few things about this book aren't ideal.
 
-We have therefor come up with our own beginner group curriculum, and published
+We have therefore come up with our own beginner group curriculum, and published
 it as a book: [Ruby For Beginners](http://ruby-for-beginners.rubymonstas.org).
 Feel free to use it. Of course, any and all feedback or improvements will be
 welcome.
