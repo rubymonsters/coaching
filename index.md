@@ -289,7 +289,7 @@ about learning programming. All of this sits in your mind, ready for you to
 be used without thinking about it further.
 
 Students who never learned any programming on the other hand will be
-overwhelmed in not time when you try to explain too much at once. Also, it simply
+overwhelmed in no time when you try to explain too much at once. Also, it simply
 takes a little while, and quite some repetition, in order for a certain concept
 to trickle in, and to be known well enough to be *used* while thinking about
 something else (like, thinking about the next concept, or how to solve a
@@ -359,7 +359,7 @@ of discussions ensue, and everyone hopefully comes out wiser than before.
 However, as a beginner, you're usually better off not limiting yourself to any
 such opinion exclusively. Instead you would ideally look at many different
 solutions, hear lots of different opinions, and try to make up your mind,
-basically catching up on a decades evolutionary learning process that the
+basically catching up on a decades of evolutionary learning process that the
 community has gone through as a whole.
 
 Since your students will look at you, and value your guidance, you should try
