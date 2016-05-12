@@ -198,7 +198,7 @@ possible steps, one at a time.
 too simple, simplify more.*
 
 Also, read the chapter "Learning to program" from our book [Ruby For
-Beginners](http://ruby-for-beginners.rubymonstas.org).
+Beginners](http://ruby-for-beginners.rubymonstas.org/learning_to_program.html).
 
 
 ## Repeat yourself
