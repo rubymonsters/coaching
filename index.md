@@ -56,7 +56,7 @@ women, depending on the context.
 
 This is should be a no-brainer to you. If it's not, or if have any issues with
 this simple rule, we recommend taking a step back, and learn about gender related
-issues in our society in general, and tech in particular. 
+issues in our society in general, and tech in particular.
 A few great starting points are [here](https://modelviewculture.com),
 [here](http://www.ashedryden.com/archive), and [here](http://geekfeminism.wikia.com),
 and you can find more resources at the end of this page. If studying these
@@ -337,7 +337,7 @@ Maybe things are going a little bit slower than you expected, or maybe they
 take a different route. That's still progress, and it's great they've made
 it this far. Be sure to give positive feedback.
 
-Also, often times students aren't really aware about the progress they're
+Also, oftentimes students aren't really aware about the progress they're
 actually making:
 
 For example, after introducing what a method is, and explaining how they are
@@ -476,7 +476,7 @@ cut down Ruby, and still be productive writing Sinatra applications.
 
 ## Encourage them to join other events
 
-Even for beginners it often times is a great experience to join a local Ruby
+Even for beginners it often is a great experience to join a local Ruby
 meetup once in a while, join a hackday (ask the whole group to participate and
 work on their shared learning project for a day), or visit a local conference
 (ask the conference organizers about free tickets, student discounts, or
@@ -504,8 +504,8 @@ casually at their first conference ... which can help boost self-esteem, too
 
 ## Educate yourself
 
-Coaches often times are seasoned developers, often times male, and priviledged
-enough to be able to spend their time coaching a group regularly.
+Coaches often are seasoned developers, often male, and priviledged enough to be
+able to spend their time coaching a group regularly.
 
 If you fall into this group make sure to spend enough time educating yourself
 about some of the issues you'll want to pay attention towards. Some starting
