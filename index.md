@@ -194,6 +194,9 @@ Keep in mind that, as a programmer, you not only know all of this. You
 how to best explain them. Think about this hard, and try to take the smallest
 possible steps, one at a time.
 
+*So, simplify, simplify again, then simplify more. If you think what you have is
+too simple, simplify more.*
+
 Also, read the chapter "Learning to program" from our book [Ruby For
 Beginners](http://ruby-for-beginners.rubymonstas.org).
 
