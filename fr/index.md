@@ -118,7 +118,7 @@ Faites en sorte que vos étudiantes comprennent les bases de Ruby : ce que sont 
 Soyez certain de décomposer tout cela en petites étapes digestes. 
 Gardez en tête que, en tant que développeur, vous ne connaissez pas juste tout cela. Vous "respirez" ces concepts. Vous les connaissez si bien que vous ne sauriez même pas comment bien les expliquer. Réfléchissez-y et essayez d’avancer avec les plus petites marches possibles, une à la fois. 
 
-Pour mieux y réfléchir, vous pouvez lire le chapitre "Learning to program" de notre livre [Ruby For Beginners] (http://ruby-for-beginners.rubymonstas.org).
+Pour mieux y réfléchir, vous pouvez lire le chapitre "Learning to program" de notre livre [Ruby For Beginners] (http://ruby-for-beginners.rubymonstas.org/learning_to_program.html).
 
 
 ## Répétez, souvent, différemment
