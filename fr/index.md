@@ -302,10 +302,10 @@ Les mentors sont souvent  des développeurs chevronnés et assez privilégiés p
 
 Si vous faites partie de cette catégorie de personnes, faites en sorte de prendre du temps pour vous former sur certains sujets importants en tant que mentor. Voici quelques points de départ :
 
-* [So you want to be an ally](http://juliepagano.com/blog/2014/05/10/so-you-want-to-be-an-ally/) by Julie Pagano
-* [Resources for allies](http://geekfeminism.wikia.com/wiki/Resources_for_allies) on Geekfeminism
-* [Micro agressions](https://modelviewculture.com/pieces/where-are-you-really-from-microaggressions-and-making-tech-meetups-safe) by Nasma Ahmed
-* [Imposter syndrom](http://geekfeminism.wikia.com/wiki/Impostor_syndrome) on Geekfeminism
-* [Stereotype threat](http://en.wikipedia.org/wiki/Stereotype_threat) on Wikipedia, and [How it works](http://www.explainxkcd.com/wiki/index.php/385:_How_it_Works) by xkcd.
-* [Straight white male](http://whatever.scalzi.com/2012/05/15/straight-white-male-the-lowest-difficulty-setting-there-is/) by John Scalzi
-* [It's everywhere](http://www.sinfest.net/view.php?date=2011-10-09) by Tatsuya Ishida
+* [Ainsi vous voulez etre un(e) allié(e)](http://juliepagano.com/blog/2014/05/10/so-you-want-to-be-an-ally/) de Julie Pagano
+* [Resources pour alliés](http://geekfeminism.wikia.com/wiki/Resources_for_allies) sur Geekfeminism
+* [Micro agressions](https://modelviewculture.com/pieces/where-are-you-really-from-microaggressions-and-making-tech-meetups-safe) de Nasma Ahmed
+* [Le syndrome de l'Imposteur](http://geekfeminism.wikia.com/wiki/Impostor_syndrome) sur Geekfeminism
+* [Menace du Stereotype](https://fr.wikipedia.org/wiki/Menace_du_stéréotype) sur Wikipedia, et [How it works](http://www.explainxkcd.com/wiki/index.php/385:_How_it_Works) de xkcd.
+* [Homme blanc hétérosexuel](http://whatever.scalzi.com/2012/05/15/straight-white-male-the-lowest-difficulty-setting-there-is/) de John Scalzi
+* [C'est partout](http://www.sinfest.net/view.php?date=2011-10-09) de Tatsuya Ishida
