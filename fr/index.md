@@ -7,12 +7,12 @@ layout: default
 
 Les ateliers débutants Rails Girls sont supers pour susciter beaucoup d'enthousiasme, motiver les nouveaux à aller plus loin et commencer à apprendre à programmer. 
 
-De temps en temps, les participants de ces ateliers forment des groupes d'étude en Ruby. Voici quelques recommandations sur comment faire marcher un tel groupe en tant que mentor, basé sur notre propre expérience [Ruby Monsters] (http://rubymonstas.org).
+De temps en temps, les participants de ces ateliers forment des groupes d'étude en Ruby. Voici quelques recommandations sur comment faire marcher un tel groupe en tant que mentor, basé sur notre propre expérience [Ruby Monsters](http://rubymonstas.org).
 
 
 ## Bonheur et plaisir
 
-Quelque soient les précédentes expériences et compétences que possède votre groupe, votre travail en tant que mentor est de faire en sorte que l'apprentissage de la programmation soit intéressant. Les réunions du groupe doivent être aussi amusantes que possible. Vous voulez que vos étudiants soient heureux quand ils quittent l'espace de travail: un peu fatigués, peut-être légèrement perdus, mais toujours heureux. 
+Quelles que soient les précédentes expériences et compétences que possède votre groupe, votre travail en tant que mentor est de faire en sorte que l'apprentissage de la programmation soit intéressant. Les réunions du groupe doivent être aussi amusantes que possible. Vous voulez que vos étudiants soient heureux quand ils quittent l'espace de travail : un peu fatigués, peut-être légèrement perdus, mais toujours heureux.
 
 Cela peut être difficile, vous pouvez vous retrouver bloqué. Continuez d'apprendre vous-même. Essayez de trouver de nouvelles manières d'expliquer et améliorez vos acquis. 
 
@@ -66,11 +66,11 @@ Pendant les pauses, encouragez tout le monde à fermer les pc, aller faire un to
 
 ## Posez des questions sur les expériences précédentes
 
-Souvent, les étudiantes qui prennent part à nos groupes de débutantes n'ont aucune expérience dans la programmation. 
+Souvent, les étudiantes qui prennent part à nos groupes de débutantes n'ont aucune expérience en programmation.
 De temps en temps, elles ont quelques notions de HTML/CSS, ont déjà fait des modifications sur un blog WordPress ou ont hacké un mode dans un jeu vidéo. 
 D'autres sont ou ont été étudiantes en science de l'informatique, mais trouvent les cours de Java ou d'Haskell qu'elles ont suivi tellement nuls qu'elles recherchent une meilleure alternative. 
 
-À votre tout premier atelier, et à chaque fois qu'une nouvelle personne rejoint le groupe, demandez les expériences et compétences déjà acquises, ainsi que la motivation qui les pousse à rejoindre le groupe. Cela vous donnera quelques clés pour savoir comment commencer et quels points sont familiers. 
+Pendant votre tout premier atelier, et à chaque fois qu'une nouvelle personne rejoint le groupe, demandez les expériences et compétences déjà acquises, ainsi que la motivation qui les pousse à rejoindre le groupe. Cela vous donnera quelques clés pour savoir comment commencer et les compétences sur lesquelles vous appuyer.
 
 
 ## Restez aussi simple que possible
@@ -79,32 +79,32 @@ Si vous pensez pouvoir mentorer un groupe de débutantes, vous êtes probablemen
 
 Gardez à l'esprit qu'être un bon développeur et être un bon professeur et/ou mentor sont deux choses bien distinctes qui requièrent différentes compétences. 
 
-Quelque soient vos propres centres d'intérêt, vos outils préférés, le style de programmation que vous aimez : ce sont des conclusions que vous avez fait après avoir mis des années à essayer différents outils, à rater certains projets, à apprendre de nouveaux types d’architectures et à recommencer autrement. 
+Quels que soient vos propres centres d'intérêt, vos outils préférés, le style de programmation que vous aimez, vous avez mis des années avant de créer vos propres habitudes et vos propres réflexes. Rappelez-vous les années passées à essayer différents outils, les projets ratés, les hésitations devant de nouveaux types d'architectures et parfois votre perplexité devant certaines documentations. Restez simple ;-)
 
-Choisissez les outils les plus simples qui peuvent être utilisés par tout le monde dans le groupe afin de permettre d'en apprendre davantage sur un certain sujet. Même si il y a plus moderne, ou plus largement utilisé pour répondre à une problématique, envisagez de commencer à enseigner la plus basique et simple des solutions. 
+Choisissez les outils les plus simples qui peuvent être utilisés par tout le monde dans le groupe afin de permettre d'en apprendre davantage sur un certain sujet. Même s'il y existe des moyens plus modernes, ou plus largement utilisés pour répondre à une problématique, pensez à commencer votre enseignement par la solution la plus simple et la plus accessible à tous.
 
 Par exemple: 
 
-* Faites les travailler sur les éditeurs Sublime ou Atom, à moins qu'elles soient déjà habituées à un outil différent (cela marche assez bien avec un éditeur de code basé sur le texte). Ils fonctionnent sur n'importe quel système d'exploitation et tout le monde peut partager ses raccourcis et sa configuration. 
+* Faites-les travailler sur les éditeurs Sublime ou Atom, à moins qu'elles soient déjà habituées à un outil différent (cela marche assez bien avec un éditeur de code basé sur le texte). Ils fonctionnent sur n'importe quel système d'exploitation et tout le monde peut partager ses raccourcis et sa configuration.
 
 * Utilisez la vielle syntaxe Hashrocket ({‘cle’ => ‘valeur’}) quand vous expliquez les hashes pour la première fois: c'est une syntaxe unifiée pour tous les hashes, quelque soit le type des clés. Il n'y a pas d'intérêt à connaitre deux syntaxes quand on apprend le concept, l'utilisation et les avantages des hashes. Plus tard, mentionnez la nouvelle syntaxe mais gardez l'ancienne au moins pendant un certain temps. 
 
-* Passez les petites fonctionnalités lors des premiers pas. Vous voulez que votre groupe arrive au point ou il peut écrire du code intéressant et utile. Beaucoup de fonctionnalités du langage, même certaines utilisées de temps en temps, sont inutiles pour arriver à cela. Pourquoi présenter les boucles For et While, les lambdas, l’opérateur *, les variables de classe, les assignations conditionnelles ou les arguments par défaut ? À la place, suivez la règle du 80/20 et enseignez en premier lieu du code simple. Amenez vos étudiantes à savoir écrire leurs propres outils. Vous pourrez ensuite présenter des fonctionnalités plus avancées du langage.   
+* Passez les petites fonctionnalités lors des premiers pas. Vous voulez que votre groupe arrive au point où il peut écrire du code intéressant et utile. Beaucoup de fonctionnalités du langage, même certaines utilisées de temps en temps, sont inutiles pour arriver à cela. Pourquoi présenter les boucles For et While, les lambdas, l’opérateur "*", les variables de classe, les assignations conditionnelles ou les arguments par défaut ? À la place, suivez la règle du 80/20 et enseignez en premier lieu du code simple. Amenez vos étudiantes à savoir écrire leurs propres outils. Vous pourrez ensuite présenter des fonctionnalités plus avancées du langage.
 
 * Commencez à enseigner les tests en utilisant 'test/unit' : les tests sont simplement des méthodes (ce qu’elles connaissent) et il n’y a pas d’ajout de configuration à prendre en compte. Ils vont simplement marcher aussi en Rails directement. 
 
-* Mettez en place la première application Web en utilisant Sinatra, pas Rails. Présentez HTTP et comment les verbes correspondent aux méthodes ruby dans Sinatra. Puis, laissez les porter leur application vers Ruby On Rails.
+* Mettez en place la première application Web en utilisant Sinatra, pas Rails. Présentez HTTP et comment les verbes correspondent aux méthodes ruby dans Sinatra. Puis, laissez-les porter leur application vers Ruby On Rails.
 
-* Présentez les routes Rails sans les ressources DSL. Laissez les étudiantes écrire chacune des routes. Cela leur permet de mieux comprendre les différences avec Sinatra, comment les routes mappent les verbes HTTP et les chemins ver un contrôleur, etc. Puis, plus tard, expliquez comment Rails gère les ressources pour vous faciliter la vie. 
+* Présentez les routes Rails sans les ressources DSL. Laissez les étudiantes écrire chacune des routes. Cela leur permet de mieux comprendre les différences avec Sinatra, comment les routes mappent les verbes HTTP et les chemins vers un contrôleur, etc. Puis, plus tard, expliquez comment Rails gère les ressources pour vous faciliter la vie.
 
-* Présentez les migrations en en créant manuellement. N’utilisez pas de générateurs. Laissez les étudiantes numéroter leurs fichiers séquentiellement, comme aux premiers jours de Rails : cela leur permettra de comprendre le nommage des taches rake : ‘migrate :up’ et ‘migrate :down’. Laissez les créer manuellement aussi les méthodes ‘up’ et ‘down’ au lieu d’utiliser la méthode ‘change’. Enfin, expliquez leur pourquoi les fichiers de migration actuels sont aujourd’hui horodatés et pourquoi la méthode ‘change’ est apparue. 
+* Présentez les migrations en en créant manuellement. N’utilisez pas de générateurs. Laissez les étudiantes numéroter leurs fichiers séquentiellement, comme aux premiers jours de Rails : cela leur permettra de comprendre le nommage des taches rake : ‘migrate:up’ et ‘migrate:down’. Laissez-les créer manuellement aussi les méthodes ‘up’ et ‘down’ au lieu d’utiliser la méthode ‘change’. Enfin, expliquez-leur pourquoi les fichiers de migration actuels sont aujourd’hui horodatés et pourquoi la méthode ‘change’ est apparue.
 
 
 ## Partitionnez 
 
-N'essayez pas d'en enseigner trop en même temps. Réduisez les sujets. Quand vous pensez qu'ils sont assez simples, réduisez les encore. 
+N'essayez pas d'en enseigner trop en même temps. Réduisez les sujets. Quand vous pensez qu'ils sont assez simples, réduisez-les encore.
 
-Prenez le temps de réfléchir sur  ce qui nécessite le moins de connaissances pour être compris et qui n’a pas encore été abordé.
+Prenez le temps de réfléchir sur ce qui nécessite le moins de connaissances pour être compris et qui n’a pas encore été abordé.
 
 Au lieu de commencer avec une nouvelle application Rails au complet, envisagez d’avancer par étapes: 
 * Apprendre comment écrire manuellement du code qui affiche une page statique en HTML et l'afficher dans un terminal
@@ -118,7 +118,7 @@ Faites en sorte que vos étudiantes comprennent les bases de Ruby : ce que sont 
 Soyez certain de décomposer tout cela en petites étapes digestes. 
 Gardez en tête que, en tant que développeur, vous ne connaissez pas juste tout cela. Vous "respirez" ces concepts. Vous les connaissez si bien que vous ne sauriez même pas comment bien les expliquer. Réfléchissez-y et essayez d’avancer avec les plus petites marches possibles, une à la fois. 
 
-Pour mieux y réfléchir, vous pouvez lire le chapitre "Learning to program" de notre livre [Ruby For Beginners] (http://ruby-for-beginners.rubymonstas.org/learning_to_program.html).
+Pour mieux y réfléchir, vous pouvez lire le chapitre "Learning to program" de notre livre [Ruby For Beginners](http://ruby-for-beginners.rubymonstas.org/learning_to_program.html).
 
 
 ## Répétez, souvent, différemment
