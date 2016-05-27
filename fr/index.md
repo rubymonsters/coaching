@@ -107,10 +107,15 @@ N'essayez pas d'en enseigner trop en même temps. Réduisez les sujets. Quand vo
 Prenez le temps de réfléchir sur ce qui nécessite le moins de connaissances pour être compris et qui n’a pas encore été abordé.
 
 Au lieu de commencer avec une nouvelle application Rails au complet, envisagez d’avancer par étapes: 
+
 * Apprendre comment écrire manuellement du code qui affiche une page statique en HTML et l'afficher dans un terminal
+
 * Apprendre comment sauvegarder le HTML dans un fichier, pour qu'il soit lisible par un navigateur.
+
 * Apprendre à utiliser ERB pour afficher le même HTML que précédemment. 
+
 * Apprendre à utiliser Sinatra pour afficher le fichier, en introduisant HTTP.
+
 * Enfin, apprendre comment utiliser Rails pour afficher le fichier, en introduisant les routes et les contrôleurs. 
 
 Faites en sorte que vos étudiantes comprennent les bases de Ruby : ce que sont les méthodes, les blocs, les classes, les objets. Apprendre ce qu'est une méthode, comment écrire ses propres méthodes, comment les arguments sont passés et liés à des variables locales dans la portée de la méthode, ce qu'est une portée, ... Tout cela devrait prendre du temps pour un nouveau venu. 
@@ -127,12 +132,16 @@ Apprendre à programmer ne fonctionne qu'avec un travail de répétitions intens
 
 Répétez vous encore et encore. Il est souvent utile de répéter les mêmes choses 3 fois, de manière différente. 
 
-Essayez d'établir des phrases phare faciles à retenir, que tout le monde dans le groupe garde en tête au fil du temps. Des phrases comme: * En Ruby, toute méthode retourne une seule chose* Répétez ces phrases souvent, et demandez à vos élèves de les répéter. 
+Essayez d'établir des phrases phare faciles à retenir, que tout le monde dans le groupe garde en tête au fil du temps. Des phrases comme: *En Ruby, toute méthode retourne une seule chose*. Répétez ces phrases souvent, et demandez à vos élèves de les répéter.
 
 Voici d'autres exemples: 
+
 * 4 éléments composent une méthode: un nom, un bloc de code, des arguments (entrées) et une valeur de retour (sortie). 
+
 * Un bloc est une méthode sans nom, passée à une autre méthode. 
+
 * En Rails, une ressource consiste en 7 routes. 
+
 * Une migration représente un changement dans la structure de la base de données. 
 
 
@@ -142,7 +151,7 @@ Chaque personne tend à appréhender de nouveaux concepts d’une manière spéc
 
 Le but est donc de proposer plusieurs manières d’aborder un concept. Donnez des définitions précises, mais utilisez aussi des métaphores, des analogies et des images autant que possible. Essayez d'être amusant, tout en continuant de répéter des phrases précises et montrer comment fonctionnent les choses. 
 
-Par exemple, expliquez qu’*une route mappe un verbe HTTP et un chemin vers une action spécifique d’un contrôleur. Une action est une méthode d’instance d’une classe  contrôleur mappée par une route. * Puis,  continuez avec une métaphore : * Une route est comme le réceptionniste d’un hôtel : la demande du navigateur se dirige vers lui pour des informations, puis est envoyée à un certain étage, à un numéro de chambre specifique.* Ou : *Une route est comme un serveur dans un restaurant. Il prend votre commande, l’apporte au bon cuisinier, en fonction du plat demandé*.
+Par exemple, expliquez qu’ *une route mappe un verbe HTTP et un chemin vers une action spécifique d’un contrôleur. Une action est une méthode d’instance d’une classe  contrôleur mappée par une route.* Puis,  continuez avec une métaphore : *Une route est comme le réceptionniste d’un hôtel : la demande du navigateur se dirige vers lui pour des informations, puis est envoyée à un certain étage, à un numéro de chambre specifique.* Ou : *Une route est comme un serveur dans un restaurant. Il prend votre commande, l’apporte au bon cuisinier, en fonction du plat demandé*.
 
 De plus, pensez à trouver des méthodes d'apprentissages plus créatives:
 
@@ -160,10 +169,15 @@ Quelque soit votre aisance à l'oral, essayez d'observer et d'écouter autant qu
 
 Essayez d’être flexible et ajustez vous au groupe, ainsi qu’a chaque étudiante individuellement. 
 Expérimentez différents styles d’apprentissage, comme :
+
 * Faire des sessions ‘cours magistral’ où vous expliquez et démontrez des concepts sur un écran partagé ou avec un projecteur.
+
 * Faire travailler les étudiantes par paire sur de petits exercices. 
+
 * Faire travailler le groupe sur un jeu de rôles ou sur des idées d’histoire ou de BD concernant un petit morceau de code. 
+
 *  Proposer des discutions sur des choses qui peuvent être représentées par des hashes, des tableaux imbriqués, des objets.
+
 * Organiser des recherches sur un sujet court et spécifique, pendant la semaine et le faire présenter pendant l’atelier
 
 Vous pourriez vouloir faire plus d’ateliers de type cours magistral au tout début, pour expliquer des concepts de programmation basiques. Faites en sorte de faire de plus en plus de sessions d’exercices, où les élèves résolvent des exercices, idéalement par deux, mais aussi quelquefois par elles-mêmes.  Organisez des sessions ou elles travaillent seuls, et restez de temps en temps à distance. 
