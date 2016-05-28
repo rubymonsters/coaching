@@ -33,9 +33,33 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+header {
+  max-width: 55rem;
+  margin: 3rem auto 0 auto;
+  padding: 0 2rem;
+  text-align: left;
+}
+
+header ul {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+header li {
+  display: inline-block;
+  padding: 0 1rem 0 0;
+  font-size: 0.9rem;
+}
+
+header a {
+  color: #999;
+  text-decoration: none;
+}
+
 article {
   max-width: 55rem;
-  margin: 3rem auto;
+  margin: 0 auto;
   padding: 0 2rem;
 }
 
@@ -74,6 +98,7 @@ footer {
 footer ul {
   display: inline-block;
   margin: 0;
+  padding: 0;
 }
 
 footer li {
